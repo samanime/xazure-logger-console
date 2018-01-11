@@ -1,4 +1,3 @@
-import logger, { Logger, Levels } from './Logger';
+import consoleLogger from './Console';
 
-export { Logger, Levels }
-export default logger;
+export default consoleLogger;
