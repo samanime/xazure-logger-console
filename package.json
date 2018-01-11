@@ -2,7 +2,9 @@
   "name": "xazure-logger-module-console",
   "version": "0.1.1",
   "description": "A logging module for Xazure Logger which logs with console.",
-  "main": "dist/index.js",
+  "main": "dist/main",
+  "module": "dist/module",
+  "jsnext:main": "dist/module",
   "author": "Christian Snodgrass <christian.snodgrass.open@gmail.com> (http://xazure.net)",
   "license": "MIT",
   "repository": {
