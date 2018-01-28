@@ -1,6 +1,6 @@
 {
   "name": "xazure-logger-console",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A logging module for Xazure Logger which logs with console.",
   "main": "dist/main",
   "module": "dist/module",
