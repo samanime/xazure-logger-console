@@ -2,11 +2,11 @@
   "env": {
     "development": {
       "presets": ["env"],
-      "plugins": ["transform-class-properties", "transform-object-rest-spread"]
+      "plugins": ["transform-object-rest-spread"]
     },
     "module": {
       "presets": [["env", { "modules": false }]],
-      "plugins": ["transform-class-properties", "transform-object-rest-spread"]
+      "plugins": ["transform-object-rest-spread"]
     }
   }
 }
